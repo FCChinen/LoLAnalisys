@@ -1,0 +1,5 @@
+Day 1 - 10/28/2019
+- Learned how to transform a .JSON file to a dict object on python
+- Learned how to do a request on an url
+- Learned how to do a request on Riot API
+- Did a tutorial using all the stuff above.
