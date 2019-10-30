@@ -1,0 +1,9 @@
+{
+       "id": "9rBjBXxhkQk4WgZy9IdYOS3rPMvFMghThRWADa-CoXPf",
+       "accountId": "PJOkubvbPWpniJ9p02SF1meovFvLLluof1R85shF5fc",
+       "puuid": "sXIzTHBtHhvB7F5Tm9nCTHGT46VtsbFOT8Olo5sFtb_8mbFi4B1ytBYLzJuDH9sgg4JC1UBiAUc6BA",
+       "name": "Chinen",
+       "profileIconId": 523,
+       "revisionDate": 1572382204000,
+       "summonerLevel": 121
+}
