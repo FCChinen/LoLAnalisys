@@ -1,5 +1,11 @@
 Day 1 - 10/28/2019
-- Learned how to transform a .JSON file to a dict object on python
-- Learned how to do a request on an url
-- Learned how to do a request on Riot API
+- Learned how to transform a .JSON file to a dict object on python.
+- Learned how to do a request on an url.
+- Learned how to do a request on Riot API.
 - Did a tutorial using all the stuff above.
+
+Day 2 - 11/13/2019
+- Learned how to use another Riot API.
+- Learned how to convert timestamp to normal date.
+- Learned how to convert a key to champ, using a JSON file.
+- Did the tutorial, explaning every step above.

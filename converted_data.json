@@ -1,0 +1,17 @@
+{
+ "matches": [
+  {
+   "platformId": "BR1",
+   "gameId": 1785767421,
+   "champion": "Chogath",
+   "queue": 900,
+   "season": 13,
+   "timestamp": "2019-11-07 18:05:51",
+   "role": "DUO_SUPPORT",
+   "lane": "NONE"
+  }
+ ],
+ "startIndex": 0,
+ "endIndex": 1,
+ "totalGames": 149
+}

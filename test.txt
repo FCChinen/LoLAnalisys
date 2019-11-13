@@ -1,0 +1,1 @@
+{"matches": [{"platformId": "BR1", "gameId": 1778733755, "champion": 76, "queue": 440, "season": 13, "timestamp": 1572404713770, "role": "NONE", "lane": "JUNGLE"}], "startIndex": 0, "endIndex": 1, "totalGames": 186}
